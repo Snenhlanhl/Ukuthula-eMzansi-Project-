@@ -43,13 +43,14 @@ Deployment:
 Develop an interactive Streamlit web application for users to input ride details and get fare predictions.
 
 # Clone this repository.
-Install dependencies using pip install -r requirements.txt.
-Run the Streamlit app using streamlit run app.py.
-Input ride details to get fare predictions.
+   Install dependencies using pip install -r requirements.txt.
+  Run the Streamlit app using streamlit run app.py.
+  Input ride details to get fare predictions.
 
 # Future Enhancements
 
  
+
 
 
 

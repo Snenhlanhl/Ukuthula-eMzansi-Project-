@@ -2,7 +2,7 @@
  
  DIRISA Student Datathon challenge Team qualification
  
-Problem Statement 
+*Problem Statement*
 South Africa faces recurring service delivery protests driven by failures in providing essential services such as water, electricity, sanitation, and housing. These protests disrupt communities, strain government resources, and impact economic stability.
 
 Aim: Predictive Systems for Anticipating Areas of Potential Unrest
@@ -11,7 +11,7 @@ By leveraging historical protest data, socio-economic indicators, service delive
 Insight from the data
 
 
-Tech Stack 
+ # Tech Stack 
 Python
 
 Libriaries and Framework
@@ -21,8 +21,9 @@ Libriaries and Framework
 -  Hyperparameter Tuning:
 -  Deployment:
 
-  Project Workflow
+# Project Workflow
 
  
+
 
 

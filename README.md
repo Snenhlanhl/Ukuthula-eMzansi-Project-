@@ -27,25 +27,30 @@ Python
 Data Preprocessing:
 Load and clean the dataset (handle missing values, convert timestamps, calculate ride duration).
 Convert categorical features into numerical representations.
+
 Exploratory Data Analysis (EDA):
 Understand data distributions and relationships using statistical analysis.
+
 Model Training & Evaluation:
 Train models: Linear Regression, Random Forest, and XGBoost.
 Evaluate using RMSE, MAE, and R² score.
 Select the best-performing model based on evaluation metrics.
+
 Hyperparameter Tuning:
 Optimize model parameters using GridSearchCV for improved performance.
+
 Deployment:
 Develop an interactive Streamlit web application for users to input ride details and get fare predictions.
 
-Clone this repository.
+# Clone this repository.
 Install dependencies using pip install -r requirements.txt.
 Run the Streamlit app using streamlit run app.py.
 Input ride details to get fare predictions.
 
-Future Enhancements
+# Future Enhancements
 
  
+
 
 
 
